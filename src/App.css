@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.NavBar .navbar {
+  width: 100%;
+  border-radius: 0;
+  display: inline-flex;
+  justify-content: space-between;
+  display: block;
+}
+
+.logo-nav {
+  max-width: 389px;
+  width: 100%;
+}
+
+.mobile-nav-dropdown {
+  display: block;
+}
+
+.home-component {
+  margin-top: -13px;
+}
+
+.App .ui.message {
+  margin-top: -15px;
+  margin-bottom: 13px;
+}
+
+.home-component .home-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 4  0px;
+}
+
+.home-component .home-segment {
+  padding: 50px 15px 50px 15px;
+  border-radius: 0;
+}
+
+.home-component .home-segment .first-block {
+  padding-bottom: 50px;
+}
+
+.home-component .button {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.home-component .first-block .divider {
+
+}
+
+.home-component .middle-block .divider {
+  padding-top: 30px;
+  margin-bottom: 40px;
+}
+
+.home-component .logo {
+  margin-top: 20vh;
+}
+
+.home-component .logo-background {
+  background-color: rgba(255,255,255,.5);
+  border-radius: 20px;
+}
+
+.home-embed {
+  margin: auto;
+  max-width: 800px;
+  margin-bottom: 30px;
+}
+
+.free-class-button {
+  margin-top: 20px;
+}
+
+.google-map {
+  margin: 10px 10px 10px 10px;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.ContactDetails .contact-icon {
+  margin-bottom: 10px;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.class-descriptions {
+  padding: 10px;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+/* .timetable-component .radio-row {
+  height: 66px;
+} */
+
+.timetable-component .radio-grid {
+  padding-top: 10px;
+  padding-bottom: 9px;
+}
